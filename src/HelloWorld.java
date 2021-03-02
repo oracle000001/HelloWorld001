@@ -3,7 +3,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 
-//aiueo
+//aiueoss
 		System.out.println("HelloWorld!!");
 
 
